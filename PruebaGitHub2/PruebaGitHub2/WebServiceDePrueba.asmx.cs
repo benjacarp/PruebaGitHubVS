@@ -18,9 +18,10 @@ namespace PruebaGitHub2
     {
 
         [WebMethod]
-        public string HelloWorld()
+        public string HolaMundo()
         {
             return "Hola puto mundo :)";
         }
     }
+}
 
