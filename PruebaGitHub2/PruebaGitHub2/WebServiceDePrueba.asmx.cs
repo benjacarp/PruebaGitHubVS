@@ -20,7 +20,7 @@ namespace PruebaGitHub2
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hello fuck*n World";
+            return "Hola puto mundo :)";
         }
     }
-}
+
